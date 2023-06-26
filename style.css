@@ -1,0 +1,155 @@
+html {
+  height: 50%;
+  width: 100%;
+}
+.container {
+  position: relative;
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.bloxfruit {
+  padding: 200px 150px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid #ffffff;
+  border-radius: 4px;
+  transition: box-shadow 0.5s ease;
+}
+.bloxfruit:hover {
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.7);
+}
+.owners {
+  padding: 150px 350px;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid white;
+  border-radius: 4px;
+  box-shadow: 0 0 10px #fff;
+}
+  @keyframes glowing {
+    0% { box-shadow: 0 0 10px #fff; }
+    50% { box-shadow: 0 0 20px #fff; }
+    100% { box-shadow: 0 0 10px #fff; }
+  }
+.roblox {
+  padding: 75px 50px;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid white;
+  border-radius: 4px;
+  box-shadow: 0 0 10px #fff;
+}
+.roblox2 {
+  padding: 45px 55px;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid white;
+  border-radius: 4px;
+  box-shadow: 0 0 10px #fff;
+}
+.Version {
+  padding: 10px 10px;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid white;
+  border-radius: 25px;
+  box-shadow: 0 0 10px #fff;
+}
+.MenuBar {
+  padding: 15px 115px;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid white;
+  border-radius: 7px;
+  box-shadow: 0 0 10px #fff;
+}
+.currentpage {
+  display: inline-block;
+  color: lightgray;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}
+.currentpage:hover {
+  color: lightgray;
+}
+.buda {
+  padding: 20px 80px;
+  color: cyan;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid cyan;
+  border-radius: 5px;
+  transition: box-shadow 0.5s ease;
+  background-color: cyan;
+}
+.buda:hover {
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.7);
+}
+body {
+  background-color: black;
+  }
+
+    /* Định dạng các phần tử khác trong trang web */
+
+  h1 {
+    color: white;
+  }
+
+  p {
+    color: white;
+  }
+.A1 {
+  color: #fff;
+  transition: text-shadow 0.5s ease-in-out;
+}
+
+.glowing-text:hover {
+  text-shadow: 0 0 40px white, 0 0 20px white, 0 0 30px cyan;
+}
+.glowing-text {
+  color: #fff;
+  transition: text-shadow 1s ease-in-out;
+}
+.color-change:hover {
+  color: gray;
+}
+.color-change {
+  display: inline-block;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+
+header {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.fifai {
+  border: 2px solid black
+}
